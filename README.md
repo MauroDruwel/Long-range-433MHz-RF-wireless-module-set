@@ -6,10 +6,10 @@ This example shows how you can use the Whadda Long Range 433MHz RF wireless modu
 - RCSwitch.h
 
 # Wiring diagram for the RX module
-![](./rx_example diagram.png)
+![](./rx_example_diagram.png)
 
 # Wiring diagram for the TX module
-![](./tx_example diagram.png)
+![](./tx_example_diagram.png)
 
 # Additional information
 For more information about the Whadda Long Range 433MHz RF wireless module set (WPI469), check the manual available at [whadda.com](https://www.whadda.com)
